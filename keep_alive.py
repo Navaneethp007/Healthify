@@ -1,3 +1,4 @@
+#This is just to keep the bot running always.
 from flask import Flask
 from threading import Thread
 
